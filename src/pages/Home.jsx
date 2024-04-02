@@ -117,11 +117,11 @@ const Home = () => {
             </div>
         </Link>
         
-        
-        <Link to="/cropcure" className="bg-green-300 w-340 h-123 rounded-lg flex m-4 p-2 space-x-4 bottom-4 relative border-2 border-black">
+        <a href="https://plant-disease-recognition-app-agro.streamlit.app/Prediction">
+        <div className="bg-green-300 w-340 h-123 rounded-lg flex m-4 p-2 space-x-4 bottom-4 relative border-2 border-black">
           <div className="w-80">
             <div className="bg-green-800 w-20 text-white pl-1 rounded-md ">
-              <a href="https://plant-disease-recognition-app-agro.streamlit.app/Prediction">Crop cure</a>
+              Crop cure
             </div>
             <div>
               <div className="flex flex-row">
@@ -153,7 +153,8 @@ const Home = () => {
           <div className="w-40 mt-3 ">
             <img className="w-40 h-30 rounded-full border-2 border-green-800" src="https://as2.ftcdn.net/v2/jpg/01/32/18/81/1000_F_132188136_kwCGATtnrW0pjZ4ZVaUZsjrqZHrL0hzb.jpg" alt="" />
           </div>
-        </Link>
+        </div>
+        </a>
 
         <Link to="/forsale" className=" h-123 rounded-lg flex m-4 p-2 space-x-4 bottom-4 relative border-2 border-black">
           <div >
