@@ -13,7 +13,7 @@ const SoilAnalysis = () => {
   
   // Function to fetch the prediction from the API
   const fetchPrediction = async () => {
-    const response = await fetch('http://127.0.0.1:5001/predict', {
+    const response = await fetch('https://avipsapradhan.pythonanywhere.com/predict', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
