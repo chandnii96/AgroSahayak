@@ -1,81 +1,77 @@
-🌾 AgroSahayak – Empowering Agriculture Through Technology
-AgroSahayak is a smart agriculture platform designed to assist farmers with real-time monitoring, AI-powered crop recommendations, and efficient resource management. Built using React, Vite, Tailwind CSS, and Machine Learning models, the application offers a one-stop solution to promote sustainable and data-driven farming practices.
+# 🌾 AgroSahayak – Empowering Agriculture through Technology
 
-🚀 Features
-📊 Soil Analysis – Analyze soil health using key parameters and sensor data.
+AgroSahayak is an innovative mobile application designed to revolutionize modern farming  practices by integrating  AI models 
+and IoT with advanced technology that promises to make farms more efficient, productive and profitable.
 
-🌱 Crop Recommendation – Recommends optimal crops using a Random Forest model (achieving 99% accuracy).
+---
 
-📅 Crop Planning – Season-wise guidance for better yield planning.
+## 📱 App Preview
 
-🐛 Pest & Disease Recognition – Detects plant diseases using image-based AI and suggests chemical and biological treatments.
+<p align="center"> <img src="https://github.com/user-attachments/assets/522691f2-a565-4a98-9a3f-dfed0ef158cf" alt="Soil Analysis 1" width="250"/> <img src="https://github.com/user-attachments/assets/55cb66d1-0977-45fe-9cfc-bba83377bda9" alt="Soil Analysis 2" width="250"/> <img src="https://github.com/user-attachments/assets/300dd82f-30d5-46e8-97ac-6ccc737fa0b4" alt="Dashboard" width="250"/> <img src="https://github.com/user-attachments/assets/207609b8-5683-4013-bf7d-c1a11c3f98eb" alt="Crop Suggestion" width="250"/> <img src="https://github.com/user-attachments/assets/0ba548e3-3883-4130-acd9-3dfa2bcaab34" alt="Pest Detection" width="250"/> </p>
+---
 
-🛒 Agri Store – Buy, sell, or rent farm equipment.
+## 🚀 Key Features
 
-📰 Bulletin Board – Updates on government schemes, news, and workshops.
+* **Soil Analysis:** Real-time insights into soil pH, moisture, and health using IoT integration.
+* **Crop Recommendation:** AI-based personalized crop suggestions based on soil and weather data.
+* **Pest & Disease Recognition:** Image-based detection using trained machine learning models.
+* **Smart Crop Planning:** Seasonal planning and input scheduling tailored to each farmer.
+* **Agri Store:** Buy/sell/rent equipment and tools within the app.
+* **Bulletin:** Latest government schemes, farming workshops, and agri-news.
+* **Community Support:** Connect with fellow farmers and agri-experts.
+* **Market Prices:** Daily crop price updates from nearby mandis.
 
-🌐 Community Hub – Connects farmers with peers and agri-experts.
+---
 
-📈 Market Trends – Real-time pricing data for informed selling decisions.
+## ⚙️ Tech Stack
 
-⚙️ Tech Stack
-Frontend: React.js, Vite, Tailwind CSS
+* **Frontend:** React + Vite + TailwindCSS
+* **Backend:** Node.js (for integrations)
+* **Database:** Firebase (Firestore)
+* **AI/ML Models:** Python (Random Forest for Crop Recommendation – 99% accuracy)
+* **Other:** IoT sensors for soil data, REST APIs for weather and mandi info
 
-Backend: Node.js (Planned)
+---
 
-AI/ML: Python (Random Forest for crop recommendation, ResNet50 for image classification)
+## 🏆 Achievements
 
-Deployment: (Coming Soon)
+* Achieved **99% model accuracy** with Random Forest in crop recommendation
+* Selected for **AICTE Innovation Bootcamp & Research Showcases**
+* Conducted field surveys and user testing with real farmers
 
-Others: ESLint, PostCSS
+---
 
-🧠 AI & ML Integration
-Utilized Random Forest algorithm for crop prediction with 99% accuracy.
+## 📥 Getting Started
 
-Implemented ResNet50 for pest and disease image classification.
-
-Future integration with IoT sensors for real-time soil and weather monitoring.
-
-📦 Getting Started
-Clone the repository:
-
-bash
-Copy
-Edit
+```bash
+# Clone the repo
 git clone https://github.com/your-username/AgroSahayak.git
-Navigate to the project folder:
-
-bash
-Copy
-Edit
 cd AgroSahayak
-Install dependencies:
 
-bash
-Copy
-Edit
+# Install dependencies
 npm install
-Run the app:
 
-bash
-Copy
-Edit
+# Run the application
 npm run dev
-📸 Screenshots
+```
 
+---
 
-![Soil Analysis](https://github.com/user-attachments/assets/8e73fe24-9d43-4bc0-9e27-c0f7283c0bb2)
-![Soil Analysis](https://github.com/user-attachments/assets/8e73fe24-9d43-4bc0-9e27-c0f7283c0bb2)
+## 👨‍🌾 Contact
 
-🤝 Contributing
-Contributions are welcome! Please fork the repo and submit a pull request with clear commit messages.
+* **Developer:** Chandni Kumari
+* **LinkedIn:** [linkedin.com/in/chandniikumari](https://linkedin.com/in/chandniikumari)
 
-📄 License
-This project is open-source and available under the MIT License.
+---
 
-✨ Acknowledgements
+## 🤝 Contributing
+
+Contributions are always welcome!
+Please fork the repo, make changes, and raise a PR.
+
+---
+
+## ✨ Acknowledgements
 All farmers who gave feedback during prototype testing.
-
 Mentors and institutions supporting AgriTech innovation.
-
 AI/ML open-source community for model support and datasets.
