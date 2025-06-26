@@ -7,7 +7,12 @@ and IoT with advanced technology that promises to make farms more efficient, pro
 
 ## 📱 App Preview
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/522691f2-a565-4a98-9a3f-dfed0ef158cf" alt="Soil Analysis 1" width="250"/> <img src="https://github.com/user-attachments/assets/55cb66d1-0977-45fe-9cfc-bba83377bda9" alt="Soil Analysis 2" width="250"/> <img src="https://github.com/user-attachments/assets/300dd82f-30d5-46e8-97ac-6ccc737fa0b4" alt="Dashboard" width="250"/> <img src="https://github.com/user-attachments/assets/207609b8-5683-4013-bf7d-c1a11c3f98eb" alt="Crop Suggestion" width="250"/> <img src="https://github.com/user-attachments/assets/0ba548e3-3883-4130-acd9-3dfa2bcaab34" alt="Pest Detection" width="250"/> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/522691f2-a565-4a98-9a3f-dfed0ef158cf" alt="Soil Analysis 1" width="250"/> 
+  <img src="https://github.com/user-attachments/assets/55cb66d1-0977-45fe-9cfc-bba83377bda9" alt="Soil Analysis 2" width="250"/> 
+  <img src="https://github.com/user-attachments/assets/300dd82f-30d5-46e8-97ac-6ccc737fa0b4" alt="Dashboard" width="250"/> 
+  <img src="https://github.com/user-attachments/assets/207609b8-5683-4013-bf7d-c1a11c3f98eb" alt="Crop Suggestion" width="250"/> 
+  <img src="https://github.com/user-attachments/assets/0ba548e3-3883-4130-acd9-3dfa2bcaab34" alt="Pest Detection" width="250"/> 
+</p>
 ---
 
 ## 🚀 Key Features
