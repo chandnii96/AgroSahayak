@@ -3,8 +3,6 @@
 AgroSahayak is an innovative mobile application designed to revolutionize modern farming  practices by integrating  AI models 
 and IoT with advanced technology that promises to make farms more efficient, productive and profitable.
 
----
-
 ## 📱 App Preview
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/522691f2-a565-4a98-9a3f-dfed0ef158cf" alt="Soil Analysis 1" width="250"/> 
@@ -13,7 +11,6 @@ and IoT with advanced technology that promises to make farms more efficient, pro
   <img src="https://github.com/user-attachments/assets/207609b8-5683-4013-bf7d-c1a11c3f98eb" alt="Crop Suggestion" width="250"/> 
   <img src="https://github.com/user-attachments/assets/0ba548e3-3883-4130-acd9-3dfa2bcaab34" alt="Pest Detection" width="250"/> 
 </p>
----
 
 ## 🚀 Key Features
 
@@ -26,8 +23,6 @@ and IoT with advanced technology that promises to make farms more efficient, pro
 * **Community Support:** Connect with fellow farmers and agri-experts.
 * **Market Prices:** Daily crop price updates from nearby mandis.
 
----
-
 ## ⚙️ Tech Stack
 
 * **Frontend:** React + Vite + TailwindCSS
@@ -36,15 +31,11 @@ and IoT with advanced technology that promises to make farms more efficient, pro
 * **AI/ML Models:** Python (Random Forest for Crop Recommendation – 99% accuracy)
 * **Other:** IoT sensors for soil data, REST APIs for weather and mandi info
 
----
-
 ## 🏆 Achievements
 
 * Achieved **99% model accuracy** with Random Forest in crop recommendation
 * Selected for **AICTE Innovation Bootcamp & Research Showcases**
 * Conducted field surveys and user testing with real farmers
-
----
 
 ## 📥 Getting Started
 
@@ -60,21 +51,16 @@ npm install
 npm run dev
 ```
 
----
-
 ## 👨‍🌾 Contact
 
 * **Developer:** Chandni Kumari
 * **LinkedIn:** [linkedin.com/in/chandniikumari](https://linkedin.com/in/chandniikumari)
 
----
 
 ## 🤝 Contributing
 
 Contributions are always welcome!
 Please fork the repo, make changes, and raise a PR.
-
----
 
 ## ✨ Acknowledgements
 All farmers who gave feedback during prototype testing.
